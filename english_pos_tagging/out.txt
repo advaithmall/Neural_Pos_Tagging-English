@@ -1,0 +1,47 @@
+.
+├── dataset.pt
+├── dataset.py
+├── en_atis-ud-dev.conllu
+├── en_atis-ud-test.conllu
+├── en_atis-ud-train.conllu
+├── eval.py
+├── model.pt
+├── model.py
+├── out.txt
+├── pos_tagger.py
+├── REPORT.pdf
+├── telugu
+│   ├── dataset.py
+│   ├── eval.py
+│   ├── model.py
+│   ├── __pycache__
+│   │   ├── dataset.cpython-310.pyc
+│   │   └── model.cpython-310.pyc
+│   ├── telugu_model1.pth
+│   ├── telugu_model.pt
+│   ├── telugu_model.pth
+│   ├── telugustats.txt
+│   ├── telugu_test.pt
+│   ├── telugu_train.pt
+│   ├── telugu_val.pt
+│   ├── te_mtg-ud-dev.conllu
+│   ├── te_mtg-ud-test.conllu
+│   ├── te_mtg-ud-train.conllu
+│   └── train.py
+├── telugu_final
+│   ├── dataset.py
+│   ├── eval.py
+│   ├── model.py
+│   ├── telugu_model.pt
+│   ├── telugu_test.pt
+│   ├── telugu_train.pt
+│   ├── telugu_val.pt
+│   ├── te_mtg-ud-dev.conllu
+│   ├── te_mtg-ud-test.conllu
+│   ├── te_mtg-ud-train.conllu
+│   └── train.py
+├── test_dataset.pt
+├── train.py
+└── val_dataset.pt
+
+3 directories, 41 files
